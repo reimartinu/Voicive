@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- Contains the definition for the titlebar in main activity with the settings cog wheel. -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:app="http://schemas.android.com/apk/res-auto">
+
+	<item android:id="@+id/main_action_settings"
+		  android:icon="@drawable/ic_settings "
+		  android:title="Settings"
+		  app:showAsAction="ifRoom"/>
+
+</menu>

@@ -1,0 +1,33 @@
+adaptive-icon;obj\Release\90\res\mipmap-anydpi-v26\ic_launcher.xml
+adaptive-icon;obj\Release\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+android.support.constraint.ConstraintLayout;obj\Release\90\res\layout\activity_main.xml
+background;obj\Release\90\res\mipmap-anydpi-v26\ic_launcher.xml
+background;obj\Release\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+Button;obj\Release\90\res\layout\activity_main.xml
+cache-path;D:\Dokumente\Code Maturaarbeit\LiveAudioToMidi\DesignTest\obj\Release\90\lp\37\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;obj\Release\90\res\values\colors.xml
+color;obj\Release\90\res\values\ic_launcher_background.xml
+corners;obj\Release\90\res\drawable\round_button.xml
+external-cache-path;D:\Dokumente\Code Maturaarbeit\LiveAudioToMidi\DesignTest\obj\Release\90\lp\37\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;D:\Dokumente\Code Maturaarbeit\LiveAudioToMidi\DesignTest\obj\Release\90\lp\37\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Release\90\res\mipmap-anydpi-v26\ic_launcher.xml
+foreground;obj\Release\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+item;obj\Release\90\res\drawable\round_button.xml
+item;obj\Release\90\res\values\styles.xml
+padding;obj\Release\90\res\drawable\round_button.xml
+paths;D:\Dokumente\Code Maturaarbeit\LiveAudioToMidi\DesignTest\obj\Release\90\lp\37\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+ProgressBar;obj\Release\90\res\layout\activity_main.xml
+resources;obj\Release\90\res\values\colors.xml
+resources;obj\Release\90\res\values\ic_launcher_background.xml
+resources;obj\Release\90\res\values\strings.xml
+resources;obj\Release\90\res\values\styles.xml
+SeekBar;obj\Release\90\res\layout\activity_main.xml
+selector;obj\Release\90\res\drawable\round_button.xml
+shape;obj\Release\90\res\drawable\round_button.xml
+solid;obj\Release\90\res\drawable\round_button.xml
+Spinner;obj\Release\90\res\layout\activity_main.xml
+string;obj\Release\90\res\values\strings.xml
+stroke;obj\Release\90\res\drawable\round_button.xml
+style;obj\Release\90\res\values\styles.xml
+TextView;obj\Release\90\res\layout\activity_main.xml
+View;obj\Release\90\res\layout\activity_main.xml

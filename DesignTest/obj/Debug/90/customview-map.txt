@@ -1,0 +1,37 @@
+adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+android.support.constraint.ConstraintLayout;obj\Debug\90\res\layout\activity_main.xml
+background;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+background;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+Button;obj\Debug\90\res\layout\activity_main.xml
+cache-path;C:\Users\marti\Documents\Code Maturaarbeit\LiveAudioToMidi\DesignTest\obj\Debug\90\lp\37\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+cache-path;C:\Users\marti\Documents\Code Maturaarbeit\LiveAudioToMidi\DesignTest\obj\Debug\90\lp\75\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;obj\Debug\90\res\values\colors.xml
+color;obj\Debug\90\res\values\ic_launcher_background.xml
+corners;obj\Debug\90\res\drawable\round_button.xml
+external-cache-path;C:\Users\marti\Documents\Code Maturaarbeit\LiveAudioToMidi\DesignTest\obj\Debug\90\lp\37\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-cache-path;C:\Users\marti\Documents\Code Maturaarbeit\LiveAudioToMidi\DesignTest\obj\Debug\90\lp\75\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;C:\Users\marti\Documents\Code Maturaarbeit\LiveAudioToMidi\DesignTest\obj\Debug\90\lp\37\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;C:\Users\marti\Documents\Code Maturaarbeit\LiveAudioToMidi\DesignTest\obj\Debug\90\lp\75\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+item;obj\Debug\90\res\drawable\round_button.xml
+item;obj\Debug\90\res\values\styles.xml
+padding;obj\Debug\90\res\drawable\round_button.xml
+paths;C:\Users\marti\Documents\Code Maturaarbeit\LiveAudioToMidi\DesignTest\obj\Debug\90\lp\37\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+paths;C:\Users\marti\Documents\Code Maturaarbeit\LiveAudioToMidi\DesignTest\obj\Debug\90\lp\75\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+ProgressBar;obj\Debug\90\res\layout\activity_main.xml
+resources;obj\Debug\90\res\values\colors.xml
+resources;obj\Debug\90\res\values\ic_launcher_background.xml
+resources;obj\Debug\90\res\values\strings.xml
+resources;obj\Debug\90\res\values\styles.xml
+SeekBar;obj\Debug\90\res\layout\activity_main.xml
+selector;obj\Debug\90\res\drawable\round_button.xml
+shape;obj\Debug\90\res\drawable\round_button.xml
+solid;obj\Debug\90\res\drawable\round_button.xml
+Spinner;obj\Debug\90\res\layout\activity_main.xml
+string;obj\Debug\90\res\values\strings.xml
+stroke;obj\Debug\90\res\drawable\round_button.xml
+style;obj\Debug\90\res\values\styles.xml
+TextView;obj\Debug\90\res\layout\activity_main.xml
+View;obj\Debug\90\res\layout\activity_main.xml
