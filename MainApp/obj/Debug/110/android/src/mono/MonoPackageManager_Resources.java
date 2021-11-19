@@ -79,6 +79,7 @@ public class MonoPackageManager_Resources {
 		"Xamarin.AndroidX.SavedState.dll",
 		"Xamarin.AndroidX.SlidingPaneLayout.dll",
 		"Xamarin.AndroidX.SwipeRefreshLayout.dll",
+		"Xamarin.AndroidX.Tracing.Tracing.dll",
 		"Xamarin.AndroidX.Transition.dll",
 		"Xamarin.AndroidX.VectorDrawable.Animated.dll",
 		"Xamarin.AndroidX.VectorDrawable.dll",

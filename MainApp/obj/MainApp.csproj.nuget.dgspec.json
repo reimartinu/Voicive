@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dokumente\\Code Maturaarbeit\\LiveAudioToMidi\\MainApp\\MainApp.csproj": {}
+    "C:\\Users\\marti\\Documents\\GitHub\\Voicive\\MainApp\\MainApp.csproj": {}
   },
   "projects": {
-    "D:\\Dokumente\\Code Maturaarbeit\\LiveAudioToMidi\\MainApp\\MainApp.csproj": {
+    "C:\\Users\\marti\\Documents\\GitHub\\Voicive\\MainApp\\MainApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dokumente\\Code Maturaarbeit\\LiveAudioToMidi\\MainApp\\MainApp.csproj",
+        "projectUniqueName": "C:\\Users\\marti\\Documents\\GitHub\\Voicive\\MainApp\\MainApp.csproj",
         "projectName": "MainApp",
-        "projectPath": "D:\\Dokumente\\Code Maturaarbeit\\LiveAudioToMidi\\MainApp\\MainApp.csproj",
+        "projectPath": "C:\\Users\\marti\\Documents\\GitHub\\Voicive\\MainApp\\MainApp.csproj",
         "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-        "outputPath": "D:\\Dokumente\\Code Maturaarbeit\\LiveAudioToMidi\\MainApp\\obj\\",
+        "outputPath": "C:\\Users\\marti\\Documents\\GitHub\\Voicive\\MainApp\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -76,7 +80,7 @@
             },
             "Xamarin.AndroidX.Preference": {
               "target": "Package",
-              "version": "[1.1.1.8, )"
+              "version": "[1.1.1.11, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",

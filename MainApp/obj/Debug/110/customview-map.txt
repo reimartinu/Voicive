@@ -19,13 +19,13 @@ background;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher.xml
 background;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher_round.xml
 Button;obj\Debug\110\res\layout\activity_calibrate.xml
 Button;obj\Debug\110\res\layout-land\activity_calibrate.xml
-cache-path;D:\Dokumente\Code Maturaarbeit\LiveAudioToMidi\MainApp\obj\Debug\110\lp\45\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+cache-path;C:\Users\marti\Documents\GitHub\Voicive\MainApp\obj\Debug\110\lp\46\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 color;obj\Debug\110\res\values\colors.xml
 color;obj\Debug\110\res\values-night\colors.xml
 corners;obj\Debug\110\res\drawable\ic_round_button_start.xml
 corners;obj\Debug\110\res\drawable\ic_round_button_stop.xml
-external-cache-path;D:\Dokumente\Code Maturaarbeit\LiveAudioToMidi\MainApp\obj\Debug\110\lp\45\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
-external-path;D:\Dokumente\Code Maturaarbeit\LiveAudioToMidi\MainApp\obj\Debug\110\lp\45\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-cache-path;C:\Users\marti\Documents\GitHub\Voicive\MainApp\obj\Debug\110\lp\46\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;C:\Users\marti\Documents\GitHub\Voicive\MainApp\obj\Debug\110\lp\46\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 foreground;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher.xml
 foreground;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher_round.xml
 gradient;obj\Debug\110\res\drawable\ic_glowcircle.xml
@@ -60,7 +60,7 @@ path;obj\Debug\110\res\drawable\ic_pref_lowcut.xml
 path;obj\Debug\110\res\drawable\ic_pref_scale.xml
 path;obj\Debug\110\res\drawable\ic_pref_vowel.xml
 path;obj\Debug\110\res\drawable\ic_settings.xml
-paths;D:\Dokumente\Code Maturaarbeit\LiveAudioToMidi\MainApp\obj\Debug\110\lp\45\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+paths;C:\Users\marti\Documents\GitHub\Voicive\MainApp\obj\Debug\110\lp\46\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 Preference;obj\Debug\110\res\xml\preferences.xml
 PreferenceCategory;obj\Debug\110\res\xml\preferences.xml
 PreferenceScreen;obj\Debug\110\res\xml\preferences.xml

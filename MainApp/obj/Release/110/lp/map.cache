@@ -86,3 +86,5 @@ androidx.preference.preference.aar
 androidx.lifecycle.lifecycle-livedata.aar
 androidx.asynclayoutinflater.asynclayoutinflater.aar
 androidx.legacy.legacy-support-core-ui.aar
+Xamarin.AndroidX.Tracing.Tracing.dll
+androidx.tracing.tracing.aar
