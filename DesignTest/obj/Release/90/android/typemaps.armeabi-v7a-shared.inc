@@ -19,50 +19,50 @@
 	.section	.rodata.map_aname.3,"aMS",%progbits,1
 	.type	.L.map_aname.3, %object
 .L.map_aname.3:
-	.asciz	"Mono.Android"
-	.size	.L.map_aname.3, 13
+	.asciz	"DesignTest"
+	.size	.L.map_aname.3, 11
 
 	.section	.rodata.map_aname.4,"aMS",%progbits,1
 	.type	.L.map_aname.4, %object
 .L.map_aname.4:
-	.asciz	"DesignTest"
-	.size	.L.map_aname.4, 11
+	.asciz	"Xamarin.Android.Support.Constraint.Layout"
+	.size	.L.map_aname.4, 42
 
 	.section	.rodata.map_aname.5,"aMS",%progbits,1
 	.type	.L.map_aname.5, %object
 .L.map_aname.5:
-	.asciz	"Xamarin.Android.Support.Constraint.Layout"
-	.size	.L.map_aname.5, 42
+	.asciz	"Xamarin.Android.Support.Loader"
+	.size	.L.map_aname.5, 31
 
 	.section	.rodata.map_aname.6,"aMS",%progbits,1
 	.type	.L.map_aname.6, %object
 .L.map_aname.6:
-	.asciz	"Xamarin.Android.Support.Loader"
-	.size	.L.map_aname.6, 31
+	.asciz	"Xamarin.Android.Support.Constraint.Layout.Solver"
+	.size	.L.map_aname.6, 49
 
 	.section	.rodata.map_aname.7,"aMS",%progbits,1
 	.type	.L.map_aname.7, %object
 .L.map_aname.7:
-	.asciz	"Xamarin.Android.Support.Constraint.Layout.Solver"
-	.size	.L.map_aname.7, 49
+	.asciz	"Xamarin.Android.Support.v7.AppCompat"
+	.size	.L.map_aname.7, 37
 
 	.section	.rodata.map_aname.8,"aMS",%progbits,1
 	.type	.L.map_aname.8, %object
 .L.map_aname.8:
-	.asciz	"Xamarin.Android.Support.v7.AppCompat"
-	.size	.L.map_aname.8, 37
+	.asciz	"Xamarin.Android.Support.Fragment"
+	.size	.L.map_aname.8, 33
 
 	.section	.rodata.map_aname.9,"aMS",%progbits,1
 	.type	.L.map_aname.9, %object
 .L.map_aname.9:
-	.asciz	"Xamarin.Android.Support.Fragment"
-	.size	.L.map_aname.9, 33
+	.asciz	"Xamarin.Essentials"
+	.size	.L.map_aname.9, 19
 
 	.section	.rodata.map_aname.10,"aMS",%progbits,1
 	.type	.L.map_aname.10, %object
 .L.map_aname.10:
-	.asciz	"Xamarin.Essentials"
-	.size	.L.map_aname.10, 19
+	.asciz	"Mono.Android"
+	.size	.L.map_aname.10, 13
 
 	.section	.rodata.map_aname.11,"aMS",%progbits,1
 	.type	.L.map_aname.11, %object

@@ -17,7 +17,7 @@
 
 	/* 1: Java.Interop.dll */
 	/* uncompressed_file_size */
-	.word	164352
+	.word	164864
 	/* loaded */
 	.byte	0
 	/* data */
@@ -26,7 +26,7 @@
 
 	/* 2: Mono.Android.dll */
 	/* uncompressed_file_size */
-	.word	1044480
+	.word	1044992
 	/* loaded */
 	.byte	0
 	/* data */
