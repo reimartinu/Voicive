@@ -46,6 +46,30 @@ androidx.appcompat.view.menu.MenuPresenter;androidx.appcompat.view.menu.MenuPres
 AndroidX.AppCompat.View.Menu.IMenuView, Xamarin.AndroidX.AppCompat;androidx.appcompat.view.menu.MenuView
 AndroidX.AppCompat.View.Menu.IMenuView;androidx.appcompat.view.menu.MenuView
 androidx.appcompat.view.menu.MenuView;androidx.appcompat.view.menu.MenuView
+AndroidX.Core.Internal.View.ISupportMenu, Xamarin.AndroidX.Core;androidx.core.internal.view.SupportMenu
+AndroidX.Core.Internal.View.ISupportMenu;androidx.core.internal.view.SupportMenu
+androidx.core.internal.view.SupportMenu;androidx.core.internal.view.SupportMenu
+AndroidX.Core.Internal.View.ISupportMenuItem, Xamarin.AndroidX.Core;androidx.core.internal.view.SupportMenuItem
+AndroidX.Core.Internal.View.ISupportMenuItem;androidx.core.internal.view.SupportMenuItem
+androidx.core.internal.view.SupportMenuItem;androidx.core.internal.view.SupportMenuItem
+AndroidX.Core.App.ActivityCompat+IOnRequestPermissionsResultCallback, Xamarin.AndroidX.Core;androidx.core.app.ActivityCompat$OnRequestPermissionsResultCallback
+AndroidX.Core.App.ActivityCompat.IOnRequestPermissionsResultCallback;androidx.core.app.ActivityCompat$OnRequestPermissionsResultCallback
+androidx.core.app.ActivityCompat$OnRequestPermissionsResultCallback;androidx.core.app.ActivityCompat$OnRequestPermissionsResultCallback
+AndroidX.Core.App.ActivityCompat+IPermissionCompatDelegate, Xamarin.AndroidX.Core;androidx.core.app.ActivityCompat$PermissionCompatDelegate
+AndroidX.Core.App.ActivityCompat.IPermissionCompatDelegate;androidx.core.app.ActivityCompat$PermissionCompatDelegate
+androidx.core.app.ActivityCompat$PermissionCompatDelegate;androidx.core.app.ActivityCompat$PermissionCompatDelegate
+AndroidX.Core.App.ActivityCompat+IRequestPermissionsRequestCodeValidator, Xamarin.AndroidX.Core;androidx.core.app.ActivityCompat$RequestPermissionsRequestCodeValidator
+AndroidX.Core.App.ActivityCompat.IRequestPermissionsRequestCodeValidator;androidx.core.app.ActivityCompat$RequestPermissionsRequestCodeValidator
+androidx.core.app.ActivityCompat$RequestPermissionsRequestCodeValidator;androidx.core.app.ActivityCompat$RequestPermissionsRequestCodeValidator
+AndroidX.Core.App.SharedElementCallback+IOnSharedElementsReadyListener, Xamarin.AndroidX.Core;androidx.core.app.SharedElementCallback$OnSharedElementsReadyListener
+AndroidX.Core.App.SharedElementCallback.IOnSharedElementsReadyListener;androidx.core.app.SharedElementCallback$OnSharedElementsReadyListener
+androidx.core.app.SharedElementCallback$OnSharedElementsReadyListener;androidx.core.app.SharedElementCallback$OnSharedElementsReadyListener
+AndroidX.Core.App.TaskStackBuilder+ISupportParentable, Xamarin.AndroidX.Core;androidx.core.app.TaskStackBuilder$SupportParentable
+AndroidX.Core.App.TaskStackBuilder.ISupportParentable;androidx.core.app.TaskStackBuilder$SupportParentable
+androidx.core.app.TaskStackBuilder$SupportParentable;androidx.core.app.TaskStackBuilder$SupportParentable
+AndroidX.Core.View.INestedScrollingParent2, Xamarin.AndroidX.Core;androidx.core.view.NestedScrollingParent2
+AndroidX.Core.View.INestedScrollingParent2;androidx.core.view.NestedScrollingParent2
+androidx.core.view.NestedScrollingParent2;androidx.core.view.NestedScrollingParent2
 AndroidX.Core.View.ActionProvider+ISubUiVisibilityListener, Xamarin.AndroidX.Core;androidx.core.view.ActionProvider$SubUiVisibilityListener
 AndroidX.Core.View.ActionProvider.ISubUiVisibilityListener;androidx.core.view.ActionProvider$SubUiVisibilityListener
 androidx.core.view.ActionProvider$SubUiVisibilityListener;androidx.core.view.ActionProvider$SubUiVisibilityListener
@@ -70,9 +94,6 @@ androidx.core.view.NestedScrollingChild3;androidx.core.view.NestedScrollingChild
 AndroidX.Core.View.INestedScrollingParent, Xamarin.AndroidX.Core;androidx.core.view.NestedScrollingParent
 AndroidX.Core.View.INestedScrollingParent;androidx.core.view.NestedScrollingParent
 androidx.core.view.NestedScrollingParent;androidx.core.view.NestedScrollingParent
-AndroidX.Core.View.INestedScrollingParent2, Xamarin.AndroidX.Core;androidx.core.view.NestedScrollingParent2
-AndroidX.Core.View.INestedScrollingParent2;androidx.core.view.NestedScrollingParent2
-androidx.core.view.NestedScrollingParent2;androidx.core.view.NestedScrollingParent2
 AndroidX.Core.View.INestedScrollingParent3, Xamarin.AndroidX.Core;androidx.core.view.NestedScrollingParent3
 AndroidX.Core.View.INestedScrollingParent3;androidx.core.view.NestedScrollingParent3
 androidx.core.view.NestedScrollingParent3;androidx.core.view.NestedScrollingParent3
@@ -91,27 +112,6 @@ androidx.core.view.KeyEventDispatcher$Component;androidx.core.view.KeyEventDispa
 AndroidX.Core.View.Accessibility.IAccessibilityViewCommand, Xamarin.AndroidX.Core;androidx.core.view.accessibility.AccessibilityViewCommand
 AndroidX.Core.View.Accessibility.IAccessibilityViewCommand;androidx.core.view.accessibility.AccessibilityViewCommand
 androidx.core.view.accessibility.AccessibilityViewCommand;androidx.core.view.accessibility.AccessibilityViewCommand
-AndroidX.Core.Internal.View.ISupportMenu, Xamarin.AndroidX.Core;androidx.core.internal.view.SupportMenu
-AndroidX.Core.Internal.View.ISupportMenu;androidx.core.internal.view.SupportMenu
-androidx.core.internal.view.SupportMenu;androidx.core.internal.view.SupportMenu
-AndroidX.Core.Internal.View.ISupportMenuItem, Xamarin.AndroidX.Core;androidx.core.internal.view.SupportMenuItem
-AndroidX.Core.Internal.View.ISupportMenuItem;androidx.core.internal.view.SupportMenuItem
-androidx.core.internal.view.SupportMenuItem;androidx.core.internal.view.SupportMenuItem
-AndroidX.Core.App.ActivityCompat+IOnRequestPermissionsResultCallback, Xamarin.AndroidX.Core;androidx.core.app.ActivityCompat$OnRequestPermissionsResultCallback
-AndroidX.Core.App.ActivityCompat.IOnRequestPermissionsResultCallback;androidx.core.app.ActivityCompat$OnRequestPermissionsResultCallback
-androidx.core.app.ActivityCompat$OnRequestPermissionsResultCallback;androidx.core.app.ActivityCompat$OnRequestPermissionsResultCallback
-AndroidX.Core.App.ActivityCompat+IPermissionCompatDelegate, Xamarin.AndroidX.Core;androidx.core.app.ActivityCompat$PermissionCompatDelegate
-AndroidX.Core.App.ActivityCompat.IPermissionCompatDelegate;androidx.core.app.ActivityCompat$PermissionCompatDelegate
-androidx.core.app.ActivityCompat$PermissionCompatDelegate;androidx.core.app.ActivityCompat$PermissionCompatDelegate
-AndroidX.Core.App.ActivityCompat+IRequestPermissionsRequestCodeValidator, Xamarin.AndroidX.Core;androidx.core.app.ActivityCompat$RequestPermissionsRequestCodeValidator
-AndroidX.Core.App.ActivityCompat.IRequestPermissionsRequestCodeValidator;androidx.core.app.ActivityCompat$RequestPermissionsRequestCodeValidator
-androidx.core.app.ActivityCompat$RequestPermissionsRequestCodeValidator;androidx.core.app.ActivityCompat$RequestPermissionsRequestCodeValidator
-AndroidX.Core.App.SharedElementCallback+IOnSharedElementsReadyListener, Xamarin.AndroidX.Core;androidx.core.app.SharedElementCallback$OnSharedElementsReadyListener
-AndroidX.Core.App.SharedElementCallback.IOnSharedElementsReadyListener;androidx.core.app.SharedElementCallback$OnSharedElementsReadyListener
-androidx.core.app.SharedElementCallback$OnSharedElementsReadyListener;androidx.core.app.SharedElementCallback$OnSharedElementsReadyListener
-AndroidX.Core.App.TaskStackBuilder+ISupportParentable, Xamarin.AndroidX.Core;androidx.core.app.TaskStackBuilder$SupportParentable
-AndroidX.Core.App.TaskStackBuilder.ISupportParentable;androidx.core.app.TaskStackBuilder$SupportParentable
-androidx.core.app.TaskStackBuilder$SupportParentable;androidx.core.app.TaskStackBuilder$SupportParentable
 AndroidX.CustomView.Widget.IOpenable, Xamarin.AndroidX.CustomView;androidx.customview.widget.Openable
 AndroidX.CustomView.Widget.IOpenable;androidx.customview.widget.Openable
 androidx.customview.widget.Openable;androidx.customview.widget.Openable

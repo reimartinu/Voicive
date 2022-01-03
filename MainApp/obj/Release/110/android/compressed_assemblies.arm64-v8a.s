@@ -26,7 +26,7 @@
 
 	/* 2: Mono.Android.dll */
 	/* uncompressed_file_size */
-	.word	1336320
+	.word	1337856
 	/* loaded */
 	.byte	0
 	/* data */
@@ -98,7 +98,7 @@
 
 	/* 10: Xamarin.AndroidX.AppCompat.dll */
 	/* uncompressed_file_size */
-	.word	318464
+	.word	320512
 	/* loaded */
 	.byte	0
 	/* data */
@@ -116,7 +116,7 @@
 
 	/* 12: Xamarin.AndroidX.Core.dll */
 	/* uncompressed_file_size */
-	.word	356352
+	.word	357888
 	/* loaded */
 	.byte	0
 	/* data */
@@ -125,7 +125,7 @@
 
 	/* 13: Xamarin.AndroidX.CustomView.dll */
 	/* uncompressed_file_size */
-	.word	8704
+	.word	9216
 	/* loaded */
 	.byte	0
 	/* data */
@@ -134,7 +134,7 @@
 
 	/* 14: Xamarin.AndroidX.DrawerLayout.dll */
 	/* uncompressed_file_size */
-	.word	40960
+	.word	41472
 	/* loaded */
 	.byte	0
 	/* data */
@@ -161,7 +161,7 @@
 
 	/* 17: Xamarin.AndroidX.Lifecycle.LiveData.Core.dll */
 	/* uncompressed_file_size */
-	.word	15872
+	.word	16384
 	/* loaded */
 	.byte	0
 	/* data */
@@ -170,7 +170,7 @@
 
 	/* 18: Xamarin.AndroidX.Lifecycle.ViewModel.dll */
 	/* uncompressed_file_size */
-	.word	16896
+	.word	17408
 	/* loaded */
 	.byte	0
 	/* data */
@@ -188,7 +188,7 @@
 
 	/* 20: Xamarin.AndroidX.Preference.dll */
 	/* uncompressed_file_size */
-	.word	161280
+	.word	162816
 	/* loaded */
 	.byte	0
 	/* data */
@@ -197,7 +197,7 @@
 
 	/* 21: Xamarin.AndroidX.RecyclerView.dll */
 	/* uncompressed_file_size */
-	.word	308224
+	.word	320000
 	/* loaded */
 	.byte	0
 	/* data */

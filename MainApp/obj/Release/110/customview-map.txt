@@ -19,13 +19,13 @@ background;obj\Release\110\res\mipmap-anydpi-v26\ic_launcher.xml
 background;obj\Release\110\res\mipmap-anydpi-v26\ic_launcher_round.xml
 Button;obj\Release\110\res\layout\activity_calibrate.xml
 Button;obj\Release\110\res\layout-land\activity_calibrate.xml
-cache-path;D:\Dokumente\Code Maturaarbeit\LiveAudioToMidi\MainApp\obj\Release\110\lp\45\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+cache-path;D:\Dokumente\Code Maturaarbeit\LiveAudioToMidi\Voicive\MainApp\obj\Release\110\lp\46\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 color;obj\Release\110\res\values\colors.xml
 color;obj\Release\110\res\values-night\colors.xml
 corners;obj\Release\110\res\drawable\ic_round_button_start.xml
 corners;obj\Release\110\res\drawable\ic_round_button_stop.xml
-external-cache-path;D:\Dokumente\Code Maturaarbeit\LiveAudioToMidi\MainApp\obj\Release\110\lp\45\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
-external-path;D:\Dokumente\Code Maturaarbeit\LiveAudioToMidi\MainApp\obj\Release\110\lp\45\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-cache-path;D:\Dokumente\Code Maturaarbeit\LiveAudioToMidi\Voicive\MainApp\obj\Release\110\lp\46\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;D:\Dokumente\Code Maturaarbeit\LiveAudioToMidi\Voicive\MainApp\obj\Release\110\lp\46\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 foreground;obj\Release\110\res\mipmap-anydpi-v26\ic_launcher.xml
 foreground;obj\Release\110\res\mipmap-anydpi-v26\ic_launcher_round.xml
 gradient;obj\Release\110\res\drawable\ic_glowcircle.xml
@@ -60,7 +60,7 @@ path;obj\Release\110\res\drawable\ic_pref_lowcut.xml
 path;obj\Release\110\res\drawable\ic_pref_scale.xml
 path;obj\Release\110\res\drawable\ic_pref_vowel.xml
 path;obj\Release\110\res\drawable\ic_settings.xml
-paths;D:\Dokumente\Code Maturaarbeit\LiveAudioToMidi\MainApp\obj\Release\110\lp\45\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+paths;D:\Dokumente\Code Maturaarbeit\LiveAudioToMidi\Voicive\MainApp\obj\Release\110\lp\46\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 Preference;obj\Release\110\res\xml\preferences.xml
 PreferenceCategory;obj\Release\110\res\xml\preferences.xml
 PreferenceScreen;obj\Release\110\res\xml\preferences.xml

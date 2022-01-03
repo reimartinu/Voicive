@@ -115,23 +115,14 @@ namespace MainApp
             // Load all the usb-connections.
             LoadMidi();
 
-            // On first start.
-#if DEBUG
-            // Show the snackbar always in DEBUG mode.
-            preferences.Edit().PutBoolean(GetString(Resource.String.first_start_name), true).Apply();
-#endif
-            if (preferences.GetBoolean(GetString(Resource.String.first_start_name), PreferenceDefaults.FIRST_START_DEFAULT))
-            {
-                Snackbar snackbar = Snackbar.Make(col_main, GetString(Resource.String.snb_calibration), Snackbar.LengthLong)
-                    .SetAction(GetString(Resource.String.snb_calibration_btn), (a) =>
-                    {
-                        Intent settings = new Intent(context, typeof(CalibrationActivity));
-                        StartActivityForResult(settings, 0);
-                    });
-                snackbar.SetDuration(SNACKBAR_DURATION);
-                snackbar.Show();
-                preferences.Edit().PutBoolean(GetString(Resource.String.first_start_name), false).Apply();
-            }
+            Snackbar snackbar = Snackbar.Make(col_main, GetString(Resource.String.snb_calibration), Snackbar.LengthLong)
+                .SetAction(GetString(Resource.String.snb_calibration_btn), (a) =>
+                {
+                    Intent settings = new Intent(context, typeof(CalibrationActivity));
+                    StartActivityForResult(settings, 0);
+                });
+            snackbar.SetDuration(SNACKBAR_DURATION);
+            snackbar.Show();
         }
 
         protected override void OnResume()

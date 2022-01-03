@@ -8,7 +8,7 @@
 
 	.type	compressed_assembly_data_2, %object
 	.local	compressed_assembly_data_2
-	.comm	compressed_assembly_data_2,1336320,16
+	.comm	compressed_assembly_data_2,1337856,16
 
 	.type	compressed_assembly_data_3, %object
 	.local	compressed_assembly_data_3
@@ -40,7 +40,7 @@
 
 	.type	compressed_assembly_data_10, %object
 	.local	compressed_assembly_data_10
-	.comm	compressed_assembly_data_10,318464,16
+	.comm	compressed_assembly_data_10,320512,16
 
 	.type	compressed_assembly_data_11, %object
 	.local	compressed_assembly_data_11
@@ -48,15 +48,15 @@
 
 	.type	compressed_assembly_data_12, %object
 	.local	compressed_assembly_data_12
-	.comm	compressed_assembly_data_12,356352,16
+	.comm	compressed_assembly_data_12,357888,16
 
 	.type	compressed_assembly_data_13, %object
 	.local	compressed_assembly_data_13
-	.comm	compressed_assembly_data_13,8704,16
+	.comm	compressed_assembly_data_13,9216,16
 
 	.type	compressed_assembly_data_14, %object
 	.local	compressed_assembly_data_14
-	.comm	compressed_assembly_data_14,40960,16
+	.comm	compressed_assembly_data_14,41472,16
 
 	.type	compressed_assembly_data_15, %object
 	.local	compressed_assembly_data_15
@@ -68,11 +68,11 @@
 
 	.type	compressed_assembly_data_17, %object
 	.local	compressed_assembly_data_17
-	.comm	compressed_assembly_data_17,15872,16
+	.comm	compressed_assembly_data_17,16384,16
 
 	.type	compressed_assembly_data_18, %object
 	.local	compressed_assembly_data_18
-	.comm	compressed_assembly_data_18,16896,16
+	.comm	compressed_assembly_data_18,17408,16
 
 	.type	compressed_assembly_data_19, %object
 	.local	compressed_assembly_data_19
@@ -80,11 +80,11 @@
 
 	.type	compressed_assembly_data_20, %object
 	.local	compressed_assembly_data_20
-	.comm	compressed_assembly_data_20,161280,16
+	.comm	compressed_assembly_data_20,162816,16
 
 	.type	compressed_assembly_data_21, %object
 	.local	compressed_assembly_data_21
-	.comm	compressed_assembly_data_21,308224,16
+	.comm	compressed_assembly_data_21,320000,16
 
 	.type	compressed_assembly_data_22, %object
 	.local	compressed_assembly_data_22
