@@ -1603,25 +1603,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\marti\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\marti\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marti\\Documents\\GitHub\\Voicive\\DesignTest\\DesignTest.csproj",
+      "projectUniqueName": "D:\\Dokumente\\Code Maturaarbeit\\LiveAudioToMidi\\Voicive\\DesignTest\\DesignTest.csproj",
       "projectName": "DesignTest",
-      "projectPath": "C:\\Users\\marti\\Documents\\GitHub\\Voicive\\DesignTest\\DesignTest.csproj",
+      "projectPath": "D:\\Dokumente\\Code Maturaarbeit\\LiveAudioToMidi\\Voicive\\DesignTest\\DesignTest.csproj",
       "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marti\\Documents\\GitHub\\Voicive\\DesignTest\\obj\\",
+      "outputPath": "D:\\Dokumente\\Code Maturaarbeit\\LiveAudioToMidi\\Voicive\\DesignTest\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

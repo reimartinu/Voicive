@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o+7W7vGAn+gqxNPW+Ss3oZzh5/+EwsY565g4vvuCFjEpDhK4P4D+IeO7UMzspX8CVwWojy9lt2lboqJQi3rknw==",
+  "dgSpecHash": "NuhWYerisBVUxntaeaMYRCrhyNEPUx9nDg0EVoZmToS+6i6fkK6iNKwuszWdG7QDNIfpx1UPoL4HRB6KeR2I3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marti\\Documents\\GitHub\\Voicive\\MainApp\\MainApp.csproj",
+  "projectFilePath": "D:\\Dokumente\\Code Maturaarbeit\\LiveAudioToMidi\\Voicive\\MainApp\\MainApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marti\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\marti\\.nuget\\packages\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
