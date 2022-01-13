@@ -88,7 +88,7 @@ namespace MainApp
         private bool audio_running = false;
         private bool vocalmode_on = true;
 
-        public const double THRESHOLD_NORMAL = 1000000;
+        public const double THRESHOLD_NORMAL = 100000;
         public const int BUFFER_LENGHT = 4096;
         public const int SAMPLERATE = 48000;
 
