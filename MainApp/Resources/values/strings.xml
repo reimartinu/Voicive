@@ -9,7 +9,7 @@
   <string name="txv_channel">CHANNEL</string>
   <string name="txv_nomidi">
     NO MIDI CONNECTION FOUND\n
-    Connect your mobile device to your Midi-Equipment while making sure <a href = "https://sites.google.com/view/voicive"> USB-Mode is set to Midi</a>, give up and dispose of your mobile device or just use the app anyway
+    Connect your mobile device to your Midi-Equipment while making sure <a href = "https://sites.google.com/view/voicive"> USB-Mode is set to Midi</a> !
   </string>
   <!-- Old Text: <string name="txv_nomidi">NO MIDI CONNECTION FOUND\n
     Please start another Midi App or wire your phone to another device and make sure USB-Mode is <a href = "https://www.google.com/search?q=android+set+usb+mode+to+midi">set to Midi</a>
